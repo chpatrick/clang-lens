@@ -65,7 +65,7 @@ library
   default-language:    Haskell2010
   include-dirs:        cbits/
   includes:            clang-c/Index.h
-  cc-options:          -Wall -Werror
+  cc-options:          -Wall
   extra-libraries:     clang
   ghc-options:         -Wall
   if impl(ghc >= 8.0.0)
