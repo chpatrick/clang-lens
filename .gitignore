@@ -1,4 +1,5 @@
 dist/
+dist-newstyle/
 src/**/*.c
 .cabal-sandbox
 .stack-work
